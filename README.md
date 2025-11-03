@@ -7,7 +7,7 @@
 
 ### 🧠 Skills
 - **Languages:** Python, JavaScript, TypeScript, SQL, C#, Java, Kotlin  
-- **Frameworks & Tools:** Node.js, React, Next.js, Vite  
+- **Frameworks & Tools:** Node.js, .NET Core, React, Next.js, Vite, Postgres SQL, MySQL, MongoDB 
 
 💡 _“Code is a tool for change — I build to make a difference.”_
 
